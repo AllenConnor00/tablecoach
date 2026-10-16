@@ -5,7 +5,7 @@
 
 TableCoach is an operations-focused application designed to turn recurring restaurant performance data into information managers can review, validate, and act on.
 
-The project grew from firsthand restaurant operations experience and is currently undergoing real-world testing with informal permission at a LongHorn Steakhouse location. This repository documents the product and engineering work without publishing internal operational data or the proprietary production codebase.
+The project grew from firsthand restaurant operations experience and is being developed with feedback informed by restaurant operations experience. Any evaluation involving a restaurant location is informal and should not be interpreted as corporate approval or endorsement. This repository documents the product and engineering work without publishing internal operational data or the proprietary production codebase.
 
 ## What TableCoach Does
 
@@ -59,7 +59,7 @@ Similarly, modeled impact and confirmed results are kept conceptually separate. 
 
 ## Product Status
 
-TableCoach is an **active proprietary project in development and real-world testing**.
+TableCoach is an **active proprietary project in development**. The public repository does not contain production code or data and cannot independently demonstrate the full feature list.
 
 Current work includes the end-to-end scorecard/coaching workflow, import validation, trend analysis, manager reporting, and production-oriented persistence and audit concerns.
 
